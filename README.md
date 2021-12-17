@@ -1,6 +1,8 @@
 # passign
 
  `the goal of this project is "insert data" in the "fastest way possible" `
+ 
+https://drive.google.com/file/d/1x0n2LPMkgCiuh4nMk4BbWngFEGQ6Iq4m/view?usp=sharing
 
  - write a commandline/service to insert all data in database
  - you are only allowed to use postgres as database
@@ -12,4 +14,4 @@
  
  - dont miss any records , data includes exactly "13,221,919" records .
  
- - follow the white rabbit
+ - follow the white rabbit **
