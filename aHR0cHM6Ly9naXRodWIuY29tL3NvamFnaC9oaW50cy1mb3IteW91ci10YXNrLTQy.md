@@ -3,6 +3,9 @@
 Do You Want Some Help/Hint ? 
 aHR0cHM6Ly9naXRodWIuY29tL3NvamFnaC9oaW50cy1mb3IteW91ci10YXNrLTQy
 
+
+
+
  `the goal of this project is "insert data" in the "fastest way possible" `
 
  - write a commandline/service to insert all data in database
